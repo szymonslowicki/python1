@@ -1,1 +1,1 @@
-# To jest REPO, w którym będę przerabiał kolejne lekcję pythona, przy okazji pracuję z GITem.
+# his is REPO, where I work with python on basic level and I use git to do commit. 
