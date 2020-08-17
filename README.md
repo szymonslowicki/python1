@@ -1,1 +1,1 @@
-# python1
+# To jest REPO, w którym będę przerabiał kolejne lekcję pythona.
