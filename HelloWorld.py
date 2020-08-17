@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 
 print("TVP1", "TVP2", "TVN", "Polsat", "BBC", "HBO", "MTV", sep=(';'))
 print('\n')
